@@ -3,7 +3,7 @@ import { graphql } from 'gatsby'
 
 import Layout from '../components/layout'
 import { Link } from '../components/link'
-import Logo from '../../static/logo.svg'
+import Logo from '../../static/django-pony1.svg'
 
 import classes from '../styles/index.module.sass'
 
@@ -19,7 +19,7 @@ export default ({ data }) => {
             <Logo className={classes.logo} aria-label={siteMetadata.title} />
 
             <section>
-                <h1 className={classes.subtitle}> INSERT CATCHY TAG LINE HERE </h1>
+                <h1 className={classes.subtitle}> Onboarder: A Course in Digital Scholarship Development </h1>
                 <div className={classes.introduction}>
                 <p>
                     This is a good place to write what your course is about!  Dinosaurs? Neural Networks? LSTM? How to do taxes and not get bored? Write it here!   
