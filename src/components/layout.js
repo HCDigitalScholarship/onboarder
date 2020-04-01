@@ -4,7 +4,7 @@ import { StaticQuery, graphql } from 'gatsby'
 import SEO from './seo'
 import { Link } from './link'
 import { H3 } from './typography'
-import Logo from '../../static/logo.svg'
+import Logo from '../../static/django-pony1.svg'
 
 import '../styles/index.sass'
 import classes from '../styles/layout.module.sass'
@@ -61,10 +61,10 @@ const Layout = ({ isHome, title, description, children }) => {
                                     </section>
 
                                     <section className={classes.footerSection}>
-                                        <H3>About me</H3>
+                                        <H3>Haverford College Digital Scholarship</H3>
                                         {meta.showProfileImage && (
                                             <img
-                                                src="/profile.jpg"
+                                                src="/nerd_apple.jpeg"
                                                 alt=""
                                                 className={classes.profile}
                                             />
