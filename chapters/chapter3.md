@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 3: Where is cat?'
+title: 'Chapter 3: Eating banana'
 description:
   'This chapter will teach you about many cool things and introduce you to the
   most important concepts of the course.'
