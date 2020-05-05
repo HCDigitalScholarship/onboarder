@@ -1,12 +1,11 @@
 ---
-title: 'Chapter 3: Eating banana'
+title: 'May 19 PM: TEI & lxml'
 description:
-  'This chapter will teach you about many cool things and introduce you to the
-  most important concepts of the course.'
+  "Here we discuss TEI encoding as well as how to use Python's lxml library to parse and work with xml data.."
 prev: null
 next: /chapter3
 type: chapter
-id: 1
+id: 3
 ---
 
 <exercise id="1" title="Introduction" type="slides">

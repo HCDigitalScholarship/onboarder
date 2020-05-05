@@ -1,8 +1,7 @@
 ---
-title: 'Chapter 2: Peeling banana'
+title: 'May 19 AM: XML'
 description:
-  'This chapter will teach you even more stuff and help you learn some new
-  concepts.'
+  'This section covers XML and markup.'
 prev: /chapter1
 next: null
 type: chapter

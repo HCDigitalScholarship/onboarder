@@ -1,8 +1,7 @@
 ---
-title: 'Chapter 1: Getting banana'
+title: 'May 18 PM: Setup'
 description:
-  'This chapter will teach you about many cool things and introduce you to the
-  most important concepts of the course.'
+  "We'll begin with all the things that we need to have in place in order to get to work.  This includes virtual environments, Github, code editors, and tools for communications, reporting, and project management (Slack, Zoom…)."
 prev: null
 next: /chapter2
 type: chapter

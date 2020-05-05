@@ -19,10 +19,10 @@ export default ({ data }) => {
             <Logo className={classes.logo} aria-label={siteMetadata.title} />
 
             <section>
-                <h1 className={classes.subtitle}> Onboarder: A Course in Digital Scholarship Development </h1>
+                <h1 className={classes.subtitle}> Key Skills and Technologies Digital Scholarship Development </h1>
                 <div className={classes.introduction}>
                 <p>
-                    This is a good place to write what your course is about!  Dinosaurs? Neural Networks? LSTM? How to do taxes and not get bored? Write it here!   
+                    Welcome to Summer 2020!  This is a short introduction to the fundamental skills that you'll need to complete your work this summer.     
                 </p>
                 </div>
             </section>
