@@ -1,7 +1,7 @@
 ---
 title: 'May 26 PM: Databases and SQL'
 description:
-  'DB + SQL'
+  "DB + SQL"
 prev: /chapter9
 next: null
 type: chapter
