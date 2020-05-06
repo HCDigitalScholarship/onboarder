@@ -42,6 +42,7 @@ This is not correct either.
 </exercise>
 
 <exercise id="3" title="First steps">
+If you haven't worked on the Linux or Unix command-line before.  Please take an hour or so to complete [this tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
 This is a code exercise. The content can be formatted in simple Markdown – so
 you can have **bold text**, `code` or [links](https://spacy.io) or lists, like
