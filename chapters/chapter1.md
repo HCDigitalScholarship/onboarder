@@ -17,32 +17,36 @@ id: 1
 
 <exercise id="2" title="Getting Started">
 
-Let's ask some questions about the slides. Whats the correct answer?
+We'll be doing a lot of work this summer using the command line and code editors.  If you haven't worked on the Linux or Unix command-line before, please take an hour or so to complete this tutorial from Ubuntu.  I will give you the commands that you'll need to navigate the directory try, move and copy files.  We'll discuss other commands such as `scp`, `htop`, and others very soon.  Here is the [tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview).
+
+</exercise>
+<exercise id="3" title="Github">
+
+Do you currently have a GitHub account?
 
 <choice>
-<opt text="Answer one">
+<opt text="Yes" correct="true">
 
-This is not the correct answer.
-
-</opt>
-
-<opt text="Answer two" correct="true">
-
-Good job!
+Great, go ahead and open github in an other tab and keep moving.
 
 </opt>
 
-<opt text="Answer three">
+<opt text="No" correct="true">
 
-This is not correct either.
+Please [head to Github](https://github.com/join) and create one!
+
+</opt>
+
+<opt text="A hub of gits? What are you talking about?" correct="true">
+
+No problem! Please take 10 minutes to read [this article](https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/) that will get you all caught up. Then [head to Github](https://github.com/join) and create an account!
 
 </opt>
 </choice>
 
 </exercise>
 
-<exercise id="3" title="First steps">
-If you haven't worked on the Linux or Unix command-line before.  Please take an hour or so to complete [this tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+<exercise id="4" title="First steps">
 
 This is a code exercise. The content can be formatted in simple Markdown – so
 you can have **bold text**, `code` or [links](https://spacy.io) or lists, like
