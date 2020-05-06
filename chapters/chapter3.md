@@ -3,7 +3,7 @@ title: 'May 19 PM: TEI & lxml'
 description:
   "Here we discuss TEI encoding as well as how to use Python's lxml library to parse and work with xml data.."
 prev: null
-next: /chapter3
+next: /chapter4
 type: chapter
 id: 3
 ---
