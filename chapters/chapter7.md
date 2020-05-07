@@ -1,7 +1,7 @@
 ---
-title: 'May 22 AM: request / response'
+title: '7 Project work (May 21 PM)'
 description:
-  "We begin working with FastAPI and the interaction of client-side and server-side"
+  "Time to learn about and explore the projects you'll be working on during the summer."
 prev: /chapter6
 next: /chapter8
 type: chapter

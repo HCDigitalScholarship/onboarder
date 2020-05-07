@@ -1,7 +1,7 @@
 ---
-title: 'May 21 AM: JavaScript & P5.js'
+title: '6 JavaScript & P5.js (May 21 AM)'
 description:
-  "Let's learn JS and draw"
+  "Drawing with JavaScript"
 prev: /chapter5
 next: /chapter7
 type: chapter

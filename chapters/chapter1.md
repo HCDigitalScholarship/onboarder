@@ -1,5 +1,5 @@
 ---
-title: 'May 18 PM: Setup'
+title: '1 Setup (May 18 PM)'
 description:
   "We'll begin with all the things that we need to have in place in order to get to work.  This includes virtual environments, Github, code editors, and tools for communications, reporting, and project management (Slack, Zoom…)."
 prev: null
@@ -46,7 +46,7 @@ No problem! Please take 10 minutes to read [this article](https://techcrunch.com
 
 </exercise>
 
-<exercise id="4" title="First steps">
+<exercise id="4" title="Code Editors">
 
 This is a code exercise. The content can be formatted in simple Markdown – so
 you can have **bold text**, `code` or [links](https://spacy.io) or lists, like

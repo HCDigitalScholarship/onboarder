@@ -1,9 +1,9 @@
 ---
-title: 'June 3 1-5pm: Agile Project Management and Remote Teamwork'
+title: '13 Python and Databases (May 26 PM)'
 description:
-  "Presentations from HIP partners!"
+  "How to work with databases with the Django ORM or Tortoise ORM. models.py"
 prev: /chapter12
-next: null
+next: /chapter14
 type: chapter
 id: 13
 ---

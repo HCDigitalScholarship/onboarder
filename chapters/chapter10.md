@@ -1,7 +1,7 @@
 ---
-title: 'May 26 PM: Databases and SQL'
+title: '10 templates and dynamic web applications (May 25 AM)'
 description:
-  "DB + SQL"
+  ""
 prev: /chapter9
 next: /chapter11
 type: chapter

@@ -1,7 +1,7 @@
 ---
-title: 'May 27 AM: Django ORM ~ Tortoise ORM'
+title: '11 mini-blini project (May 25 PM)'
 description:
-  "Working with databases in Python"
+  "We will add new functionality to a small existing project called blini"
 prev: /chapter10
 next: /chapter12
 type: chapter

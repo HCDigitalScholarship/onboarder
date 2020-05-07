@@ -53,7 +53,7 @@ export const pageQuery = graphql`
             }
         }
         allMarkdownRemark(
-            sort: { fields: [frontmatter___title], order: ASC }
+            sort: { fields: [frontmatter___id], order: ASC }
             filter: { frontmatter: { type: { eq: "chapter" } } }
         ) {
             edges {

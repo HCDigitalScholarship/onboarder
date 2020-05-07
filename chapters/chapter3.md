@@ -1,5 +1,5 @@
 ---
-title: 'May 19 PM: TEI & lxml'
+title: '3 XML & TEI (May 19 PM)'
 description:
   "Here we discuss TEI encoding as well as how to use Python's lxml library to parse and work with xml data.."
 prev: null

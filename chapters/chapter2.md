@@ -1,7 +1,7 @@
 ---
-title: 'May 19 AM: XML'
+title: '2 Command line and Code Editors (May 19 AM)'
 description:
-  "This section covers XML and markup."
+  ""
 prev: /chapter1
 next: /chapter3
 type: chapter

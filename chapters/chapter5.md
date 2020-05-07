@@ -1,7 +1,7 @@
 ---
-title: 'May 20 PM: CSS & Bootstrap'
+title: '5 CSS & Bootstrap (May 20 PM)'
 description:
-  "CSS for style and Bootstrap for form."
+  "CSS for style and Bootstrap for responsive pages."
 prev: /chapter4
 next: /chapter6
 type: chapter

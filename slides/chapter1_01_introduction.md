@@ -26,8 +26,8 @@ We're all in the same boat during a storm. If you get sick, or need to help othe
 
 # Communications and Project Management 
 
-- [Slack](haverfordds.slack.com) -  If you haven't been added to the DS Slack workspace, please ask [Mike](mailto:mzarafon@haverford.edu) or [Andy](mailto:ajanco@haverford.edu). PLease stay logged in during work session
-- We use Github for all of our projects.  We use issues to keep track of tasks that need to be done and bugs that need fixing.  It is a good place to look for things to work on.  We also use projects for more larger concepts and goals.  So an issue might be "change color of warning buttons" and a project item would be "create interface for adding new content."   
+- [Slack](haverfordds.slack.com) -  If you haven't been added to the DS Slack workspace, please ask [Mike](mailto:mzarafon@haverford.edu) or [Andy](mailto:ajanco@haverford.edu). Please stay logged in during work sessions
+- We use Github for all of our projects.  We use issues to keep track of tasks that need to be done and bugs that need fixing.  It is a good place to look for things to work on.  We also use projects for larger concepts and goals.  So an issue might be "change color of warning buttons" and a project item would be "create interface for adding new content."   
 - DS Cookbook
 - DS Style Guide 
 
@@ -48,15 +48,12 @@ We're all in the same boat during a storm. If you get sick, or need to help othe
 
 ---
 
-# Code Editors
----
-
 # DS Research 
 
 - One of the most important parts of the DS program is learning about new technologies and how they might improve teaching and research at the College. You probably already have places that you watch for new ideas and research findings.  Please share them with one another.  Here are a few places that we follow:  
-- Twitter 
+- [Medium](https://medium.com/)
 - [Papers with Code](https://paperswithcode.com/)
-paperswithcode 
+- Twitter (the next few slides are good people to follow) 
 ---
 
 Sebastián Ramírez  Explosion AI, dev of FastAPI, Typer
@@ -116,31 +113,9 @@ David Ha, research scientist at google brain Tokyo
 @hardmaru
 https://otoro.net
 
-
----
-
-# This is a slide
-
-```python
-# Print something
-print("Hello world")
-```
-
-```out
-Hello world
-```
-
-- Slides can have code, bullet points, tables and pretty much all other Markdown
-  elements.
-- This is another bullet point.
-
-<img src="nerd_apple.jpeg" alt="This image is in /static" width="25%">
-
-Notes: Some more notes go here
+<img src="cool_apple.jpeg" alt="This image is in /static" width="25%">
 
 ---
 
 # Onward!
-
-<img src="nerd_apple.jpeg" alt="This image is in /static" width="25%">
 
