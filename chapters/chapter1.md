@@ -46,20 +46,3 @@ No problem! Please take 10 minutes to read [this article](https://techcrunch.com
 
 </exercise>
 
-<exercise id="4" title="Code Editors">
-
-This is a code exercise. The content can be formatted in simple Markdown – so
-you can have **bold text**, `code` or [links](https://spacy.io) or lists, like
-the one for the instructions below.
-
-- These are instructions and they can have bullet points.
-- The code block below will look for the files `exc_01_03`, `solution_01_03` and
-  `test_01_03` in `/exercises`.
-
-<codeblock id="01_03">
-
-This is a hint.
-
-</codeblock>
-
-</exercise>

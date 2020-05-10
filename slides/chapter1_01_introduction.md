@@ -66,15 +66,21 @@ you should see a (my_env_name) in the command line.  This indicates your current
 To exit the enviornment `deactivate`
 
 ---
-# Conda
+# [Conda](https://www.anaconda.com/products/individual)
 
-On most projects and on our servers we use virtualenv.  However, when working locally, I prefer anaconda.  It is very similar to virtualenv, but is able to handle far more complicated dependencies.  For example, if you are using a GPU for computation with the CUDA library it can be daunting to install all the depencies by hand.  However, a simple `conda install tensorflow-gpu` or `conda install pytorch-gpu` will install everything you need.  It is also useful with C-compiled libraries such as OpenCV (`conda install opencv`).  
+On most projects and on our servers we use virtualenv.  However, when working locally, I prefer anaconda. Conda is also very helpful if you're using a Windows machine.  It will give you a similar enviornment to those working on Unix and Linux machines. 
+
+Conda is very similar to virtualenv, but is able to handle far more complicated dependencies.  For example, if you are using a GPU for computation with the CUDA library it can be daunting to install all the depencies by hand.  However, a simple `conda install tensorflow-gpu` or `conda install pytorch-gpu` will install everything you need.  It is also useful with C-compiled libraries such as OpenCV (`conda install opencv`).  
+
+[cheat sheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 
 ---
 
 # DS Research 
 
-- One of the most important parts of the DS program is learning about new technologies and how they might improve teaching and research at the College. You probably already have places that you watch for new ideas and research findings.  Please share them with one another.  Here are a few places that we follow:  
+- One of the most important parts of the DS program is learning about new technologies and how they might improve teaching and research at the College. You probably already have places that you watch for new ideas and research findings.  
+
+Here are a few places that we follow:  
 - [Medium](https://medium.com/)
 - [Papers with Code](https://paperswithcode.com/)
 - Twitter (the next few slides are good people to follow) 

@@ -22,4 +22,9 @@ id: 2
 
 
 
+<exercise id="3" title="Code Editors" type="slides">
+
+<slides source="chapter2_editors">
+</slides>
+
 </exercise>
