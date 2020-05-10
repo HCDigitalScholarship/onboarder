@@ -16,7 +16,7 @@ Now that you have Python and virtualenv or conda installed, we can start to expl
 
 - `mv`
    -ex: `mv file.txt ./site/static`
-   -note: use mv to change filenames
+- note: use mv to change filenames
 
 - `-r` is needed when copying a directory
 - `-f` is used to force a yes answer to all questions.  Otherwise you may need to confirm move or copy of every file in a directory
@@ -51,3 +51,5 @@ Now that you have Python and virtualenv or conda installed, we can start to expl
 
 - `psql createdb <db_name>`
 - `psql removedb <db_name>`
+
+---
