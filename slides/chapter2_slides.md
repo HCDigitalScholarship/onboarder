@@ -14,9 +14,11 @@ Now that you have Python and virtualenv or conda installed, we can start to expl
 - `cp`
    - ex: `cp file.txt ./site/static`
 
-- `mv`
-   -ex: `mv file.txt ./site/static`
-- note: use mv to change filenames
+- `mv` (also to change names)
+   - ex: `mv file.txt ./site/static`
+
+---
+
 
 - `-r` is needed when copying a directory
 - `-f` is used to force a yes answer to all questions.  Otherwise you may need to confirm move or copy of every file in a directory
@@ -49,7 +51,9 @@ Now that you have Python and virtualenv or conda installed, we can start to expl
 
 # psql 
 
-- `psql createdb <db_name>`
-- `psql removedb <db_name>`
-
+- `sudo -u postgres createdb <db_name>`
+- `sudo -u postgres removedb <db_name>`
+[more](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04)
 ---
+
+

@@ -7,3 +7,24 @@ next: /chapter11
 type: chapter
 id: 10
 ---
+
+<exercise id="1" title="Templates">
+
+[Real Python Primer on Jinja Templating](https://realpython.com/primer-on-jinja-templating/)
+
+[The Django template language](https://docs.djangoproject.com/en/3.0/ref/templates/language/)
+
+</exercise>
+<exercise id="2" title="Debates in Modern Web Development" >
+ 
+
+["Second-guessing the modern web"](https://macwright.org/2020/05/10/spa-fatigue.html)
+by Tom MacWright
+
+["Advantages and Disadvantages of Django"](http://www.mindfiresolutions.com/blog/2018/04/advantages-and-disadvantages-of-django/)
+
+[Design for Diversity: The Case of Ed / Alex Gil](https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/)
+
+[Modern Web Development on the Jamstack New Techniques for Ultra Fast Sites and Web Applications by Mathias Biilmann & Phil Hawksworth](https://www.netlify.com/oreilly-jamstack/#download)
+
+</exercise>

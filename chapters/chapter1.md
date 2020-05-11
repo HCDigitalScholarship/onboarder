@@ -15,12 +15,8 @@ id: 1
 
 </exercise>
 
-<exercise id="2" title="Getting Started">
 
-We'll be doing a lot of work this summer using the command line and code editors.  If you haven't worked on the Linux or Unix command-line before, please take an hour or so to complete this tutorial from Ubuntu.  I will give you the commands that you'll need to navigate the directory try, move and copy files.  We'll discuss other commands such as `scp`, `htop`, and others very soon.  Here is the [tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview).
-
-</exercise>
-<exercise id="3" title="Github">
+<exercise id="2" title="Github">
 
 Do you currently have a GitHub account?
 
