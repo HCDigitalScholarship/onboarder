@@ -3,7 +3,7 @@ type: slides
 
 ---
 
-This is the first slide
+[w3Schools tutorial on CSS](https://www.w3schools.com/css/css_intro.asp)
 
 ---
 
