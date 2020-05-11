@@ -10,7 +10,7 @@ id: 2
 
 <exercise id="1" title="Command Line Tutorial">
 
-[This tutorial from Ubuntu](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) is a greate place to get started. 
+[This tutorial from Ubuntu](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) is a great place to get started. 
 
 </exercise>
 
