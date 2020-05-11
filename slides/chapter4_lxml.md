@@ -4,7 +4,6 @@ type: slides
 ---
 
 ### Let's start with some data on virtual instruction at Haverford.
-We'll make a column with responses to  
 
 `worked_best = Which online instructional methods have worked best for you?`
 
@@ -16,7 +15,7 @@ and
 
 ---
 
-<a href="https://colab.research.google.com/drive/1TMcCtGURz6wI1i9iS3mI-HBiAiROsdnj?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a>
+<a href="https://colab.research.google.com/drive/1TMcCtGURz6wI1i9iS3mI-HBiAiROsdnj?usp=sharing" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a>
 
 ```python
 import pandas as pd
@@ -62,3 +61,19 @@ we get [this](https://raw.githubusercontent.com/apjanco/files/master/scatter.htm
 
 ---
 
+# inspect element 
+
+When you open this [page](https://peaceful-knuth-705f49.netlify.app/) you can right-click and see the html code running in the browser. Right-click and select either:
+
+"View page source"
+
+or
+
+"Inspect"
+
+---
+
+<img src="inspect.png"/>
+
+Read <a href="https://developers.google.com/web/tools/chrome-devtools/dom" target="_blank">more here</a>
+---
