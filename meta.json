@@ -4,8 +4,8 @@
     "slogan": "Digital Scholarship Development",
     "description": "This is a starter course for new digital scholarship workers. It covers many of the basic skills that you'll need to complete your work.  It also introduces our particular way of doing things and tackling problems.",
     "bio": "Digital Scholarship critically applies technology to scholarly inquiry, asking new kinds of questions and creating new forms of knowledge in the research, teaching, and learning of the Haverford College community.",
-    "siteUrl": "https://kind-haibt-12bab2.netlify.com",
-    "twitter": "spacy_io",
+    "siteUrl": "https://haverfordds.netlify.app/",
+    "twitter": "apjanco",
     "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
     "testTemplate": "from wasabi import Printer\n__msg__ = Printer()\n__solution__ = \"\"\"${solution}\"\"\"\n\n${solution}\n\n${test}\n\ntry:\n    test()\nexcept AssertionError as e:\n    __msg__.fail(e)",
     "juniper": {
