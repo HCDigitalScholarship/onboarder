@@ -5,7 +5,7 @@ type: slides
 
 # Git and version control
 
-We use git for everything.  You may already know and use it.  Whatever you already know, we'd like to spend a few minutes talking about how we use Git and what we exect you to know.  
+We use git for everything.  You may already know and use it.  Whatever you already know, we'd like to spend a few minutes talking about how we use Git and what we expect you to know.  
 
 
 ---
@@ -47,7 +47,7 @@ Now that your changes are staged, you can push them to the repository. They're n
 
 ```git merge```
 Let's say I added a new feature in the `ajanco` branch and they're ready to add to the project's code base. I'd switch back to master with `git checkout master` and then pull my changes from other branch with `git merge ajanco`. Alternatively, I can go to the project's GitHub page, click "Pull requests" and "New Pull Request."
-   
+
 In many projects, someone will be notified and inspect your new code.  You'll get comments back and it's a nice way to chit-chat about our work.  Once approved the code enters the master branch and will be deployed shortly.   
 
 ---
@@ -60,3 +60,4 @@ In many projects, someone will be notified and inspect your new code.  You'll ge
 
 [The seven rules of a great Git commit message](https://chris.beams.io/posts/git-commit/)
 
+---

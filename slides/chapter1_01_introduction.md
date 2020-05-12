@@ -21,7 +21,10 @@ We're all in the same boat during a storm. If you get sick, or need to help othe
    - We'll send a Google calendar invitation for all of our meetings.  You can find the Zoom link in the location field of the invite.  
    - Please plan to join the room 2-3 minutes before the start time.  
    - If you have a headset or earphones with a microphone, please use them rather than your system microphone.  Please keep your mic on unless there's something noisy that you want to spare us.  An open mic helps us to stay in workshop mode and not feel like we're in a lecture.  Please talk whenever you like. 
-   - We'd prefer that you keep your video on, but recognize that you may need to turn it off for a variety of reasons. Creative uses of virtual backgrounds, virtual webcams, and other hacking are much appreciated. [Here's a great tutorial for an open-source virtual background using OpenCV and Tensorflow](https://elder.dev/posts/open-source-virtual-background/).  
+   - Chat is an equal part of the conversation. Please keep your chat and Slack open.  - Typing is a sign of active engagement.  Please follow links, search for unfamiliar terms, and test code snippets. 
+   - Ask for breaks if you're zoning out. If you can't name the last few things said you may need a break, less multitasking or a re-framing of why the topic is relevant to your work.             
+   - We'd prefer that you keep your video on, but recognize that you may need to turn it off for a variety of reasons. Creative uses of virtual backgrounds, virtual webcams, and other hacks are much appreciated. [Here's a great tutorial for an open-source virtual background using OpenCV and Tensorflow](https://elder.dev/posts/open-source-virtual-background/).  
+
 ---
 
 # Communications and Project Management 
@@ -32,7 +35,7 @@ We're all in the same boat during a storm. If you get sick, or need to help othe
    - Over the years, students in the DS program and found good solutions to recurring problems. We don't need to reinvent the wheel or replicate existing code.  The DS cookbook offers short tutorials on common tasks and solutions in our work.  Over the course of the summer you are likely to find new technologies and ideas that we will add to the cookbook during the last week of the summer. 
 
 - DS Style Guide
-   - Over the summer, we will be working on a style guide for the DS program.  Our goal is to provide opinions on our preferred ways of handling tasks.  For example, there are many ways of creating a map.  However, we have found leaflet to be a simple and sustainable library.  The Style Guide will give guideance and direct students to entries in the cookbook or other online tutorials. 
+   - Over the summer, we will be working on a style guide for the DS program.  Our goal is to provide opinions on our preferred ways of handling tasks.  For example, there are many ways of creating a map.  However, we have found leaflet to be a simple and sustainable library.  The Style Guide will give guidance and direct students to entries in the cookbook or other online tutorials. 
 
 ---
 
@@ -42,7 +45,7 @@ We're all in the same boat during a storm. If you get sick, or need to help othe
 - Weekly reports 
 - Workday 
 - Business office contacts
-- RAs DS studetns, HIP
+- RAs DS students, HIP
 
 ---
 
@@ -61,16 +64,16 @@ you will see a new directory called my_env_name in your current directory.
 
 To enter the virtualenv:
 `source ./my_env_name/bin/activate`
-you should see a (my_env_name) in the command line.  This indicates your current working enviornment.  
+you should see a (my_env_name) in the command line.  This indicates your current working environment.  
 
-To exit the enviornment `deactivate`
+To exit the environment `deactivate`
 
 ---
 # [Conda](https://www.anaconda.com/products/individual)
 
-On most projects and on our servers we use virtualenv.  However, when working locally, I prefer anaconda. Conda is also very helpful if you're using a Windows machine.  It will give you a similar enviornment to those working on Unix and Linux machines. 
+On most projects and on our servers we use virtualenv.  However, when working locally, I prefer anaconda. Conda is also very helpful if you're using a Windows machine.  It will give you a similar environment to those working on Unix and Linux machines. 
 
-Conda is very similar to virtualenv, but is able to handle far more complicated dependencies.  For example, if you are using a GPU for computation with the CUDA library it can be daunting to install all the depencies by hand.  However, a simple `conda install tensorflow-gpu` or `conda install pytorch-gpu` will install everything you need.  It is also useful with C-compiled libraries such as OpenCV (`conda install opencv`).  
+Conda is very similar to virtualenv, but is able to handle far more complicated dependencies.  For example, if you are using a GPU for computation with the CUDA library it can be daunting to install all the dependencies by hand.  However, a simple `conda install tensorflow-gpu` or `conda install pytorch-gpu` will install everything you need.  It is also useful with C-compiled libraries such as OpenCV (`conda install opencv`).  
 
 [cheat sheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 

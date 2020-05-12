@@ -50,7 +50,7 @@ Real Python has a [great guide on PyCharm](https://realpython.com/pycharm-guide/
 
 Whatever code editor you're using, we recommend also installing [Kite](https://www.kite.com/).
 
-Kite is kind a great tool for seeing how other people write their code. As you write, the co-pilot will display the documentation for whever you're using and share examples of how other people use that library.  It's a great way to keep track of current best practices and the range of opinions on how best to use particular tools. 
+Kite is kind a great tool for seeing how other people write their code. As you write, the co-pilot will display the documentation for whatever you're using and share examples of how other people use that library.  It's a great way to keep track of current best practices and the range of opinions on how best to use particular tools. 
 
 ---
 
