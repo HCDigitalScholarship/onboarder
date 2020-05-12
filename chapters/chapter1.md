@@ -48,3 +48,15 @@ No problem! Please take 10 minutes to read [this article](https://techcrunch.com
 </slides>
 
 </exercise>
+
+<exercise id="4" title="Events" >
+
+daily starting June 1 9:30-10:00AM -  HIP/DS/MAS Fellows Daily Standup
+
+every Thursday 3-3:45pm - HIP/DS/MAS Coffee Hour
+
+June 29 - Storytelling & Presentation Workshop
+
+July 8 - Talk w/Beyond the Bell Founders
+
+</exercise>
