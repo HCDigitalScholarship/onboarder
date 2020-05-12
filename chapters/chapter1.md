@@ -42,3 +42,9 @@ No problem! Please take 10 minutes to read [this article](https://techcrunch.com
 
 </exercise>
 
+<exercise id="3" title="Git" type="slides">
+
+<slides source="chapter1_git">
+</slides>
+
+</exercise>
