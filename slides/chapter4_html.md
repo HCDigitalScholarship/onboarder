@@ -25,6 +25,8 @@ didnt_work = {'type':'worst', 'text': requests.get('https://raw.githubuserconten
 data = [worked_best, didnt_work]
 df = pd.DataFrame(data)
 ```
+
+*for more on pandas see [The Pandas DataFrame: Make Working With Data Delightful](https://realpython.com/pandas-dataframe/)*
 ---
 
 ```python
@@ -76,4 +78,22 @@ or
 <img src="inspect.png"/>
 
 Read <a href="https://developers.google.com/web/tools/chrome-devtools/dom" target="_blank">more here</a>
+
+---
+
+In practice, here are the most common uses of the browser developer tools.
+
+- Reverse engineering an interesting site.  You can view the css and javascript imports to see what libraries are being used and how the page is built. There's also a useful Chrome plugin called [wappalyzer](https://www.wappalyzer.com/).  It will guess what framework is being used, what services and so on. 
+
+- Everything can be changed.  If an image isn't loading.  Try changing the src, see that it's pointing to the right url. If bootstrap doesn't look right, try adding and removing classes until it looks right. 
+
+- "Where is that color coming from and how do I change it?" When you select an element, the styes section will show all of the applied CSS rules. The "filter" box lets you search for the rules and shows you the originating file and line.  Super helpful. 
+
+- Console is a live JavaScript shell. It is especially helpful when writing JS.  Try your code, see if it works in the browser console.  When JS doesn't work, it rarely throws helpful errors, so this can be a good way to check for typos and bugs. 
+
+- The Network tab is a very useful window into the your page.  If it's supposed to load data from an API, but isn't, you can look at the event and get error messages. All requests will appear in Network. 
+
+
+*[more here](https://www.keycdn.com/blog/chrome-devtools)*
+
 ---

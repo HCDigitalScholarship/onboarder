@@ -16,7 +16,7 @@ id: 4
 
 <exercise id="2" title="HTML in Practice" type="slides">
 
-<slides source="chapter4_lxml">
+<slides source="chapter4_html">
 </slides>
 
 </exercise>
