@@ -16,3 +16,18 @@ Semyon's Twitter Project
 
 
 </exercise>
+
+<exercise id="2" title="Bootstrap">
+
+Margaret's exhibit site 
+
+
+</exercise>
+
+
+<exercise id="2" title="GitHub pages / markdown">
+
+Add new entries to HaverTales 
+
+
+</exercise>
