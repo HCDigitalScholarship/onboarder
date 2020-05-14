@@ -68,6 +68,6 @@ This is a hard one. It's very easy to think of yourself as a beginner and wait q
 
 - Open source projects are a great way to meet people and give back.  All the software that we use comes from the voluntary contributions of ordinary people.  They're usually very nice and have great get-togethers. PyCon was virtual this year, so you can catch all the talks [here](https://us.pycon.org/2020/online/). [Here is a useful site on how to get started with open source contributions](https://opensource.guide/how-to-contribute/). 
 
-
+- The Django Community has some real characters and brilliant programmers.  We recommend that you try, if only for the summer, the Django community lists.  There is one for "how to" questions and one on the  development of the Django project.  You can join both [here](https://www.djangoproject.com/community/) 
 
 </exercise>
