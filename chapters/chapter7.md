@@ -10,7 +10,7 @@ id: 7
 
 <exercise id="1" title="Twitter">
 
-<img src="https://colab.research.google.com/assets/colab-badge.svg" />
+<a href="https://colab.research.google.com/drive/1h36_TaQU5WJIuukXCdmHsf8Pq7vxSa3f?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
 
 [Semyon's Twitter Project](https://colab.research.google.com/drive/1h36_TaQU5WJIuukXCdmHsf8Pq7vxSa3f?usp=sharing)
 
@@ -19,7 +19,7 @@ id: 7
 
 <exercise id="2" title="Bootstrap">
 
-Margaret's exhibit site 
+[Margaret's exhibit site](http://ds.haverford.edu/oulahan/)
 
 
 </exercise>

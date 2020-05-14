@@ -17,7 +17,7 @@ We're all in the same boat during a storm. If you get sick, or need to help othe
 
 # Our Meetings 
 
-   Here is the [Zoom link](https://haverford.zoom.us/j/99791957176) that we will use for all of our sessions.  There is no password.  
+   Here is the [Zoom link](https://bit.ly/DSZoom) that we will use for all of our sessions.  There is no password.  
    - We'll send a Google calendar invitation for all of our meetings.  You can find the Zoom link in the location field of the invite.  
    - Please plan to join the room 2-3 minutes before the start time.  
    - If you have a headset or earphones with a microphone, please use them rather than your system microphone.  Please keep your mic on unless there's something noisy that you want to spare us.  An open mic helps us to stay in workshop mode and not feel like we're in a lecture.  Please talk whenever you like. 
