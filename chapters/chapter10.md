@@ -1,5 +1,5 @@
 ---
-title: '10 templates and dynamic web applications (May 25 AM)'
+title: '10 templates and dynamic web applications (May 26 AM)'
 description:
   ""
 prev: /chapter9

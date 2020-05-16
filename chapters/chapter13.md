@@ -1,5 +1,5 @@
 ---
-title: '13 Python and Databases (May 26 PM)'
+title: '13 Python and Databases (May 27 PM)'
 description:
   "How to work with databases with the Django ORM or Tortoise ORM. models.py"
 prev: /chapter12

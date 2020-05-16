@@ -1,5 +1,5 @@
 ---
-title: '12 MySQL and Databases (May 26 AM)'
+title: '12 MySQL and Databases (May 27 AM)'
 description:
   "Intro. to the MySQL query language, relational databases and psql"
 prev: /chapter11

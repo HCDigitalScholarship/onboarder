@@ -1,5 +1,5 @@
 ---
-title: '11 mini-blini project (May 25 PM)'
+title: '11 mini-blini project (May 26 PM)'
 description:
   "We will add new functionality to a small existing project called blini"
 prev: /chapter10
