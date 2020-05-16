@@ -54,6 +54,12 @@ Kite is kind a great tool for seeing how other people write their code. As you w
 
 ---
 
+<video width="100%" controls autoplay name="media">
+<source src="https://www.kite.com/wp-content/uploads/2020/05/JavaScript-video-main-light-mode-65-resolution.mp4" type="video/mp4">
+</video>
+
+---
+
 # Black
 
 <img src="https://warehouse-camo.ingress.cmh1.psfhosted.org/0fec70e46ca299f4ec9d49a417c04795107b74f0/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f7073662f626c61636b2f6d61737465722f646f63732f5f7374617469632f6c6f676f322d726561646d652e706e67" width="25%" />
