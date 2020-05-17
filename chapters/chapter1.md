@@ -49,7 +49,30 @@ No problem! Please take 10 minutes to read [this article](https://techcrunch.com
 
 </exercise>
 
-<exercise id="4" title="Events" >
+<exercise id="4" title="Game" >
+
+[Try this game](https://learngitbranching.js.org) to practice git.
+
+
+</exercise>
+
+<exercise id="5" title="Github">
+
+- [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github)
+
+- [Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
+
+Now spend some time getting to know GitHub.  
+- Create a repository 
+- link it to a local directory
+- add some files and push a few commits 
+- add an issue
+- add a project to manage tasks
+- try using git in your code editor vs terminal  
+
+</exercise>
+
+<exercise id="6" title="Events" >
 
 daily starting June 1 9:30-10:00AM -  HIP/DS/MAS Fellows Daily Standup
 
