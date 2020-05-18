@@ -53,6 +53,8 @@ No problem! Please take 10 minutes to read [this article](https://techcrunch.com
 
 [Try this game](https://learngitbranching.js.org) to practice git.
 
+[Version Control (Missing Semester)](https://missing.csail.mit.edu/2020/version-control/)
+
 
 </exercise>
 

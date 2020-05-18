@@ -35,7 +35,9 @@ When you create a repository you use `git init`.  This tell git to track changes
 ---
 
 ```git commit -am "commit message"```
-Now you just need to commit your changes.  The `-a` tag will include changes to all tracked files and `-m` appends a message.  Commit messages are not for you.  They're a message to other coders that explains what was accomplished in the commit. It's very tempting to flake on this and write "changed stuff" or "fixed bug."  In the commit we can see the changes that were made.  What we don't know is why the changes were made.  Give some context, name the issue or problem that you addressed: "Fixed Issue #23: images now sized correctly on mobile."     
+Now you just need to commit your changes.  The `-a` tag will include changes to all tracked files and `-m` appends a message.  Commit messages are not for you.  They're a message to other coders that explains what was accomplished in the commit. It's very tempting to flake on this and write "changed stuff" or "fixed bug."  In the commit we can see the changes that were made.  What we don't know is why the changes were made.  Give some context, name the issue or problem that you addressed: "Fixed Issue #23: images now sized correctly on mobile."  
+
+[bonus: The Most Frequent Commit Messages on GitHub are Mostly Useless](https://ramiro.org/blog/most-frequent-github-commit-messages/)
 
 ---
 
