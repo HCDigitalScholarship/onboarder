@@ -22,6 +22,7 @@ id: 5
 Spend 10-15 minutes playing until you get the hang of it.  
 We'll stay on Zoom for questions and hints. 
 
+[Build an Interactive Game using CSS](https://www.learnwithjason.dev/build-a-realtime-twitch-game)
 
 </exercise>
 

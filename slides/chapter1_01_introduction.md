@@ -18,7 +18,7 @@ We're all in the same boat during a storm. If you get sick, or need to help othe
 # Our Meetings
 
    Here is the [Zoom link](https://bit.ly/DSZoom) that we will use for all of our sessions.  There is no password.  
-   - We'll send a Google calendar invitation for all of our meetings.  You can find the Zoom link in the location field of the invite.  
+   - We'll send a [Google calendar invitation](https://calendar.google.com/calendar?cid=aGF2ZXJmb3JkLmVkdV9qOGFhYmlsYWU0MDliN2FsYmc2aHZlbjYxY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for all of our meetings.  You can find the Zoom link in the location field of the invite.  
    - Please plan to join the room 2-3 minutes before the start time.  
    - If you have a headset or earphones with a microphone, please use them rather than your system microphone.  Please keep your mic on unless there's something noisy that you want to spare us.  An open mic helps us to stay in workshop mode and not feel like we're in a lecture.  Please talk whenever you like.
    - Chat is an equal part of the conversation. Please keep your chat and Slack open.  - Typing is a sign of active engagement.  Please follow links, search for unfamiliar terms, and test code snippets.
