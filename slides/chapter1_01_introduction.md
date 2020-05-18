@@ -53,12 +53,13 @@ We're all in the same boat during a storm. If you get sick, or need to help othe
 
 - As always, the <a href="https://honorcouncil.haverford.edu/the-code/" target="blank">Honor Code</a> serves as our model. _Trust, concern, and respect_.
 - _No one is alone._ We will do our very best to foster a collaborative atmosphere, and welcome your ideas for ways to do so. This is your summer experience, so let's shape it together!
-- _Practice self care._ The work environments that we find ourselves in can be isolating, distracting, and exhausting. Self care is not just something you practice during non-work hours! During the work day, you might find it helpful to do things like:
+- _Practice self care._ The work environments that we find ourselves in can be isolating, distracting, and exhausting. Self care is not just something you practice during non-work hours, but rather something we do as needed. During the work day, you might find it helpful to do things like:
     - Move around (take a walk or a yoga break)
     - Meditate
     - Grab a healthy snack
     - Share a funny pet photo
-- _Embrace failure_. We're going to fail a lot, and it's ok! Failure is how we learn new things. Sharing failures as well as successes.
+These are all 
+- _Embrace failure_. We're going to fail a lot, and it's ok! Failure is how we learn new things. Let's share our failures as well as our successes with each other.
 - _Communicate_. Above all else, if you're unsure about what to do next, are having trouble focusing, or are feeling stuck in your work, let someone know!
 
 ---
