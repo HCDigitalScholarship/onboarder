@@ -58,7 +58,6 @@ We're all in the same boat during a storm. If you get sick, or need to help othe
     - Meditate
     - Grab a healthy snack
     - Share a funny pet photo
-These are all 
 - _Embrace failure_. We're going to fail a lot, and it's ok! Failure is how we learn new things. Let's share our failures as well as our successes with each other.
 - _Communicate_. Above all else, if you're unsure about what to do next, are having trouble focusing, or are feeling stuck in your work, let someone know!
 
