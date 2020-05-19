@@ -54,3 +54,11 @@ To view this slide deck in full screen, <a href="https://docs.google.com/present
 <iframe src="https://docs.google.com/presentation/d/1xtUrdH97cv7hsha8W9eijxVYef-b5Fd2pTRe6BwXD0k/edit?usp=sharing" height="100%" width="100%"></iframe>
 
 </exercise>
+
+<exercise id="5" title="Python & TEI">
+
+<a href="https://colab.research.google.com/drive/1nrf5bJJViU6I681DmGI6WJbmxOSpUFIa?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" /> <br>TEI as data</a>
+
+
+
+</exercise>
