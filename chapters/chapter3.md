@@ -1,8 +1,8 @@
 ---
 title: '3 XML & TEI (May 19 PM)'
 description:
-  "Here we discuss TEI encoding as well as how to use Python's lxml library to parse and work with xml data.."
-prev: null
+  "Here we introduce encoding, markup, and TEI as well as how to use Python's lxml library to parse and work with xml data."
+prev: /chapter2
 next: /chapter4
 type: chapter
 id: 3
@@ -39,8 +39,18 @@ Check out the following sections, as they will be particularly helpful:
 
 </exercise>
 
-<exercise id="3" title="TEI">
+<exercise id="3" title="Activity: Markup a (sort of) Historical Manuscript">
 
-TEI
+Open <a href="https://jamboard.google.com/d/1RMA3MsW-MlvA0TJ1b7KWju3biuINxVOL-ezPXPlk2q4/edit?usp=sharing" target="blank">this Jam</a>.
+
+Mark it up using colors and/or symbols, but be consistent across the entire document. Get creative with punctuation, symbols, and colors! Think about the different kinds of information you could encode into the document like formatting, named entities, dates, and other information.
+
+</exercise>
+
+<exercise id="4" title="TEI">
+
+To view this slide deck in full screen, <a href="https://docs.google.com/presentation/d/1xtUrdH97cv7hsha8W9eijxVYef-b5Fd2pTRe6BwXD0k/edit?usp=sharing" target="blank">click here</a>.
+
+<iframe src="https://docs.google.com/presentation/d/1xtUrdH97cv7hsha8W9eijxVYef-b5Fd2pTRe6BwXD0k/edit?usp=sharing" height="100%" width="100%"></iframe>
 
 </exercise>
