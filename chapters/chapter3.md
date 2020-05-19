@@ -53,3 +53,11 @@ Mark it up using colors and/or symbols, but be consistent across the entire docu
 
 
 </exercise>
+
+<exercise id="5" title="Python & TEI">
+
+<a href="https://colab.research.google.com/drive/1nrf5bJJViU6I681DmGI6WJbmxOSpUFIa?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" /> <br>TEI as data</a>
+
+
+
+</exercise>
