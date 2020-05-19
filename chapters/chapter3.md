@@ -49,8 +49,7 @@ Mark it up using colors and/or symbols, but be consistent across the entire docu
 
 <exercise id="4" title="TEI">
 
-To view this slide deck in full screen, <a href="https://docs.google.com/presentation/d/1xtUrdH97cv7hsha8W9eijxVYef-b5Fd2pTRe6BwXD0k/edit?usp=sharing" target="blank">click here</a>.
+<a href="https://docs.google.com/presentation/d/1xtUrdH97cv7hsha8W9eijxVYef-b5Fd2pTRe6BwXD0k/edit?usp=sharing" target="blank">A Gentle Introuction to TEI</a>.
 
-<iframe src="https://docs.google.com/presentation/d/1xtUrdH97cv7hsha8W9eijxVYef-b5Fd2pTRe6BwXD0k/edit?usp=sharing" height="100%" width="100%"></iframe>
 
 </exercise>
