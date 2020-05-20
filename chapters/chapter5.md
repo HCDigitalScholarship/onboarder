@@ -10,6 +10,8 @@ id: 5
 
 <exercise id="1" title="CSS 101">
 
+[Mozilla CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+
 [w3Schools tutorial on CSS](https://www.w3schools.com/css/css_intro.asp)
 
 </exercise>
