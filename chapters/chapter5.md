@@ -8,10 +8,9 @@ type: chapter
 id: 5
 ---
 
-<exercise id="1" title="CSS 101" type="slides">
+<exercise id="1" title="CSS 101">
 
-<slides source="chapter5_CSS">
-</slides>
+[w3Schools tutorial on CSS](https://www.w3schools.com/css/css_intro.asp)
 
 </exercise>
 
@@ -22,11 +21,15 @@ id: 5
 Spend 10-15 minutes playing until you get the hang of it.  
 We'll stay on Zoom for questions and hints. 
 
+</exercise>
+
+<exercise id="3" title="CSS Diner">
+
 [Build an Interactive Game using CSS](https://www.learnwithjason.dev/build-a-realtime-twitch-game)
 
 </exercise>
 
-<exercise id="3" title="Bootstrap" type="slides">
+<exercise id="4" title="Bootstrap" type="slides">
 
 <slides source="chapter5_Bootstrap">
 </slides>

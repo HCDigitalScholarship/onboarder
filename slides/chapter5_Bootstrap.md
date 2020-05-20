@@ -6,6 +6,7 @@ type: slides
 <img src="https://www.tutorialrepublic.com/lib/images/bootstrap-illustration.png">
 
 [Bootstrap tutorial](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+
 ---
 
 ## Containers and rows
@@ -17,4 +18,5 @@ type: slides
 ---
 
 <iframe height="100%" width="100%" src="https://bootstrapstudio.io/">
+
 ---
