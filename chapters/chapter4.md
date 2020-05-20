@@ -20,3 +20,17 @@ id: 4
 </slides>
 
 </exercise>
+
+<exercise id="3" title="Beautiful Soup" >
+
+<a href="https://colab.research.google.com/drive/1-Xo0J1W4_NIB-gfGQVvao1zBSxqZFQ6b?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" /> <br>bs4 Notebook</a>
+
+
+</exercise>
+
+<exercise id="4" title="Browser Driving" >
+
+1. [Install Selenium and Chromedriver](https://selenium-python.readthedocs.io/installation.html)
+2. https://gist.github.com/apjanco/a11c73662144d0637735338aacf7185b
+
+</exercise>
