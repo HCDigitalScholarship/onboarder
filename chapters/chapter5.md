@@ -23,9 +23,9 @@ We'll stay on Zoom for questions and hints.
 
 </exercise>
 
-<exercise id="3" title="CSS Diner">
+<exercise id="3" title="Interactive Game using CSS">
 
-[Build an Interactive Game using CSS](https://www.learnwithjason.dev/build-a-realtime-twitch-game)
+[Build a Realtime Twitch Game with Cassidy Williams and Jason Lengstorf](https://www.learnwithjason.dev/build-a-realtime-twitch-game)
 
 </exercise>
 
