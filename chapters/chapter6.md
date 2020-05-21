@@ -9,6 +9,7 @@ id: 6
 ---
 
 <exercise id="1" title="Introduction to Javascript">
+
 Javascript is a scripting language originally designed to facilitate interactions between the user and a web page. It has since grown into a full client- and server-side scripting language, with web frameworks built entirely in Javascript like [NodeJS](https://nodejs.org/en/) (including the framework for this application!).
 
 The [Mozilla Javascript tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction) does a nice job of introducing Javascript and the kinds of things it can do, but there's a lot!
@@ -16,8 +17,8 @@ The [Mozilla Javascript tutorial](https://developer.mozilla.org/en-US/docs/Web/J
 </exercise>
 
 <exercise id="2" title="Frameworks and Libraries">
-Fortunately, as is the case for many other tools we've discussed this week, some friendly folks have done a lot of heavy lifting for us already! There is a world of Javascript libraries and frameworks out there that make interactive sites and applications easier to build and more consistent in their construction. Some are designed for building simple applications, some for data visualizations, drawing, animation, etc. Here are a few examples:
 
+Fortunately, as is the case for many other tools we've discussed this week, some friendly folks have done a lot of heavy lifting for us already! There is a world of Javascript libraries and frameworks out there that make interactive sites and applications easier to build and more consistent in their construction. Some are designed for building simple applications, some for data visualizations, drawing, animation, etc. Here are a few examples:
 
 - [JQuery](https://jquery.com/), although it has been for a while, is still an important tool in the web developer's toolkit. Its killer feature is a simplified way of interacting with and manipulating the DOM, which makes changes to web pages possible based on user interaction. It also makes CSS animations, event handling, and Ajax (asynchronous) calls simpler than if you were writing in pure Javascript.
 
@@ -31,12 +32,16 @@ Fortunately, as is the case for many other tools we've discussed this week, some
 
 <exercise id="3" title="P5">
 
-![](p5js.svg)  
-<br>
+<img src="p5js.svg" />
+
+
 The following is a creative coding exercise to help you become familiar with the [p5.js](https://p5js.org/) library.
 
 - [P5 reference](https://p5js.org/reference/)
-- Using the [p5.js editor](https://editor.p5js.org/) -- [Slides](https://aatishb.com/stc209/slides.html)
+- Using the [p5.js editor](https://editor.p5js.org/)
+- [Slides](https://aatishb.com/stc209/slides.html)
+- [give it a try](https://editor.p5js.org/bulbil/sketches/YkzH6niu5)
+- [Go game](https://editor.p5js.org/ajanco@haverford.edu/sketches/wgMel_OQ)
 - [Robot Chicken exercise](https://github.com/Princeton-CDH/playingwithdata/raw/master/p5%20playing%20with%20data%20workshop%20handout.pdf)
 - [Simple animation](https://editor.p5js.org/slcruz/sketches/b2uP4YSNu)
 - [Plotting data](https://editor.p5js.org/slcruz/sketches/005jy4zME)
