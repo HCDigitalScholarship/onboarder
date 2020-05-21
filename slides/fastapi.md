@@ -83,3 +83,33 @@ def generate_html_response():
 ```
 
 ---
+
+# HTML Templates
+
+```python
+from fastapi.templating import Jinja2Templates
+from fastapi.staticfiles import StaticFiles
+
+templates = Jinja2Templates(directory="templates")
+app.mount("/assets", StaticFiles(directory=static_path), name="assets")
+
+@app.get("/")
+def home():
+    context = {} # A dictionary with data that we pass to the template engine to render
+    context['greeting'] = "Welcome to my page!"
+
+    page = templates.TemplateResponse(
+        "about.html", {"request": Request, "context": context}
+    ).body
+```
+
+```html
+ <html>
+        <head>
+            <title>The Title</title>
+        </head>
+        <body>
+            <h1>{{ greeting }}</h1>
+        </body>
+    </html>
+```
