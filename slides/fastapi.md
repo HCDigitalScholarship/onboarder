@@ -47,14 +47,14 @@ async def name(name: str):
 
 for example:
 
-https://www.people.co/<span style="background-color: black; color: white;">?first_name=Andy</span>
+<p>https://www.people.co/<span style="background-color: blue; color: white;">?first_name=Andy</span></p>
 
-````python
+```python
 from fastapi import Request
 
 @app.get("/people")
 async def name(name: str, request: Request):
-    first_name = request.query_param['first_name']  # in django: request.GET.get('first_name', None)
+    first_name = request.query_param['first_name']  
     person = [person for person in people if person['name'] == first_name]
     return person
 ```
@@ -103,6 +103,7 @@ def home():
     ).body
 ```
 
+**index.html**
 ```html
  <html>
         <head>
@@ -113,3 +114,23 @@ def home():
         </body>
     </html>
 ```
+
+--- 
+
+# redirect (to another site or view)
+
+```python
+@app.get("/typer")
+async def read_typer():
+    return RedirectResponse("https://typer.tiangolo.com")
+
+```
+
+```python 
+from django.shortcuts import redirect
+
+def my_view(request):
+    return redirect(some_other_view)
+```
+
+---
