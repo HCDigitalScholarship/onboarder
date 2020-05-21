@@ -21,6 +21,8 @@ id: 7
 
 [Margaret's exhibit site](http://ds.haverford.edu/oulahan/)
 
+[Student essays](https://drive.google.com/drive/folders/1C8stQvROnsGt5oANiXihLTSceU0uwqT6?usp=sharing)
+
 
 </exercise>
 
