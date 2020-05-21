@@ -50,3 +50,17 @@ The following is a creative coding exercise to help you become familiar with the
 This section is based on the [P5.js workshop](https://github.com/Princeton-CDH/playingwithdata) at Princeton's Center for Digital Humanities. Many thanks to the Princeton CDH for sharing these materials and for organizing a remarkable workshop!
 
 </exercise>
+
+<exercise id="4" title="Chickens!">
+
+[Aleiyah](https://editor.p5js.org/aspringer/sketches/H8031hAJ1)
+
+[Blien](https://editor.p5js.org/bhabtu/sketches/I6Ga0xCon)
+
+[Carter](https://editor.p5js.org/clangen/sketches/hi6ZGZbaH)
+
+[Jiaqi](https://editor.p5js.org/jzeng/sketches/cR46RfIyD)
+
+[Simon](https://editor.p5js.org/simonbabb/sketches/G7gQUKWl-)
+
+</exercise>
