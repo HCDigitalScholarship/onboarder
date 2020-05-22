@@ -13,12 +13,14 @@ id: 8
 # Python web frameworks
 
 <img width="20%" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />
+<img width="20%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png">
 
 - micro-frameworks (Flask, Bottle, FastAPI)
   - minimal, add only what's needed as needed 
   - full-control (which requires that you make all the choices, add all the things)
 
 <img width="20%" src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"/>
+<img width="20%" src="djangopony.png" /> 
 
 - high-level (Django)
   - everything all at once (CRUD, cookies, cors, ORM, admin)
@@ -26,7 +28,13 @@ id: 8
 
 </exercise>
 
-<exercise id="2" title="FastAPI/Starlette">
+<exercise id="2" title="sustainable stack">
+
+<img width="100%" src="stack.jpg"/>
+
+</exercise>
+
+<exercise id="3" title="FastAPI/Starlette">
 
 0. [Build a web API from scratch with FastAPI - the workshop](https://dev.to/tiangolo/build-a-web-api-from-scratch-with-fastapi-the-workshop-2ehe)
 1. [install FastAPI](https://fastapi.tiangolo.com/tutorial/#install-fastapi)
@@ -40,7 +48,7 @@ Exercise: create an app with a path for GET that returns the current time in jso
 </exercise>
 
 
-<exercise id="3" title="GET request">
+<exercise id="4" title="GET request">
 
 ## GET request 
 
@@ -56,7 +64,7 @@ def root():
 ```
 </exercise>
 
-<exercise id="4" title="GET with path argument">
+<exercise id="5" title="GET with path argument">
 
 # GET with path argument
 
@@ -67,7 +75,7 @@ async def name(name: str):
 ```
 </exercise>
 
-<exercise id="5" title="use browser url to query data">
+<exercise id="6" title="use browser url to query data">
 
 # use browser url to query data 
 
@@ -84,7 +92,7 @@ async def name(name: str):
 
 </exercise>
 
-<exercise id="6" title="GET with query">
+<exercise id="7" title="GET with query">
 
 
 # GET with query
@@ -105,7 +113,7 @@ async def name(name: str, request: Request):
 
 </exercise>
 
-<exercise id="7" title="types of response">
+<exercise id="8" title="types of response">
 
 # types of response
 
@@ -130,7 +138,7 @@ def generate_html_response():
 
 </exercise>
 
-<exercise id="8" title="HTML Templates">
+<exercise id="9" title="HTML Templates">
 
 
 # HTML Templates
@@ -166,7 +174,7 @@ def home():
 
 </exercise>
 
-<exercise id="9" title="redirect">
+<exercise id="10" title="redirect">
  
 
 # redirect (to another site or view)
@@ -188,18 +196,17 @@ def my_view(request):
 
 <exercise id="11" title="Booktweets">
 
-## Create an app that checks every hour for new tweets containing the keyword "book"
+## Create an app that takes a date range and keywords as input and returns all matching tweets
 
 **main.py**
 ```python
 import twint
 
 from datetime import datetime
-now = datetime.now()
+#now = datetime.now()
 
 from fastapi import FastAPI
 from fastapi.responses import HTMLResponse
-from fastapi import FastAPI, WebSocket
 
 app = FastAPI()
 
