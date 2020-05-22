@@ -2,7 +2,6 @@
 type: slides
 
 ---
-
 ## GET request 
 
 ```python
@@ -15,9 +14,7 @@ app = FastAPI()
 def root():
     return { "time": datetime.now() }
 ```
-
 --- 
-
 # GET with path argument
 
 ```python
@@ -25,9 +22,7 @@ def root():
 async def name(name: str):
     return { "name" : name }
 ```
-
 ---
-
 # use browser url to query data 
 
 ```python 
