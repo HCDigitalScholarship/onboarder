@@ -8,22 +8,37 @@ type: chapter
 id: 8
 ---
 
-<exercise id="1" title="FastAPI/Starlette">
+<exercise id="1" title="Python web frameworks">
 
+# Python web frameworks
+
+<img width="20%" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />
+
+- micro-frameworks (Flask, Bottle, FastAPI)
+  - minimal, add only what's needed as needed 
+  - full-control (which requires that you make all the choices, add all the things)
+
+<img width="20%" src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"/>
+
+- high-level (Django)
+  - everything all at once (CRUD, cookies, cors, ORM, admin)
+  - opinionated and best practices (but not obvious what those decisions and choices are).  
+
+</exercise>
+
+<exercise id="2" title="FastAPI/Starlette">
+
+0. [Build a web API from scratch with FastAPI - the workshop](https://dev.to/tiangolo/build-a-web-api-from-scratch-with-fastapi-the-workshop-2ehe)
 1. [install FastAPI](https://fastapi.tiangolo.com/tutorial/#install-fastapi)
 2. [Hello World](https://fastapi.tiangolo.com/tutorial/first-steps/#first-steps)
-3. [Paths](https://fastapi.tiangolo.com/tutorial/path-params/#path-parameters)
-4. [Response](https://fastapi.tiangolo.com/tutorial/response-model/)
-5. [Docs](https://fastapi.tiangolo.com/tutorial/response-model/#see-it-in-the-docs)
+3. [Docs](https://fastapi.tiangolo.com/tutorial/response-model/#see-it-in-the-docs)
+4. [Paths](https://fastapi.tiangolo.com/tutorial/path-params/#path-parameters)
+5. [Response](https://fastapi.tiangolo.com/tutorial/response-model/)
+
+Exercise: create an app with a path for GET that returns the current time in json.
 
 </exercise>
 
-<exercise id="2" title="request / response " type="slides">
-
-<slides source="fastapi">
-</slides>
-
-</exercise>
 
 <exercise id="3" title="Django">
 
