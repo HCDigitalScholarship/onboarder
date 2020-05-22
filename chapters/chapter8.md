@@ -40,15 +40,7 @@ Exercise: create an app with a path for GET that returns the current time in jso
 </exercise>
 
 
-<exercise id="3" title="Django">
-
-1. https://docs.djangoproject.com/en/3.0/ref/request-response/
-2. https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction
-
-</exercise>
-
-
-<exercise id="4" title="GET request">
+<exercise id="3" title="GET request">
 
 ## GET request 
 
@@ -64,7 +56,7 @@ def root():
 ```
 </exercise>
 
-<exercise id="5" title="GET with path argument">
+<exercise id="4" title="GET with path argument">
 
 # GET with path argument
 
@@ -75,7 +67,7 @@ async def name(name: str):
 ```
 </exercise>
 
-<exercise id="6" title="use browser url to query data">
+<exercise id="5" title="use browser url to query data">
 
 # use browser url to query data 
 
@@ -92,7 +84,7 @@ async def name(name: str):
 
 </exercise>
 
-<exercise id="7" title="GET with query">
+<exercise id="6" title="GET with query">
 
 
 # GET with query
@@ -113,7 +105,7 @@ async def name(name: str, request: Request):
 
 </exercise>
 
-<exercise id="8" title="types of response">
+<exercise id="7" title="types of response">
 
 # types of response
 
@@ -138,7 +130,7 @@ def generate_html_response():
 
 </exercise>
 
-<exercise id="9" title="HTML Templates">
+<exercise id="8" title="HTML Templates">
 
 
 # HTML Templates
@@ -174,7 +166,7 @@ def home():
 
 </exercise>
 
-<exercise id="10" title="redirect">
+<exercise id="9" title="redirect">
  
 
 # redirect (to another site or view)
