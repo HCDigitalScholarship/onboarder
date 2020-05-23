@@ -24,7 +24,7 @@ ______, ["Design for Diversity: The Case of Ed"](https://des4div.library.northea
 </exercise>
 
 
-<exercise id="1" title="Blini">
+<exercise id="2" title="Blini">
 
 Blini is a minimal site builder build with FastAPI. Users can create digital essays and exhibits that are saved directly to flat HTML files.  Inspired by Google Doc, content is automatically saves and mirrors the   A class site could be exported as a zip file, which can be served on Netlify, S3 or Github pages.
 
@@ -33,8 +33,23 @@ Blini is a minimal site builder build with FastAPI. Users can create digital ess
 
 </exercise>
 
-<exercise id="1" title="new feature">
+<exercise id="3" title="new feature">
 
-[code mirror](https://codemirror.net/)
+Blini uses a text editor called [ckeditor](https://ckeditor.com/).  It gives us all of the formatting and word processing tools that we need.  It formats the text in HTMl, so it's perfect for our purposes.  However, in ckeditor5, there is no longer the option of editing the HTML directly in the editor.  Mike has requested this functionality.  
+
+- the ability to load the raw HTML of a page
+- the ability to make edits to the page
+- save the edits back to the file 
+
+
+</exercise>
+
+<exercise id="4" title="the introspective app">
+
+To get us started, I created a simple FastAPI app.
+It uses a JS library called [code mirror](https://codemirror.net/).  You've probably seen it on [codepen](https://codepen.io/) and other code sharing sites. 
+
+The code is here:
+https://github.com/apjanco/introspective
 
 </exercise>
