@@ -12,7 +12,9 @@ id: 11
 
 Alex Gil, ["The User, the Learner and the Machines We Make"](http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/)
 
-______, ["Design for Diversity: The Case of Ed"](https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/)
+Roopika Risam, [New Digital Worlds : Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy](https://tripod.haverford.edu/permalink/01TRI_INST/14s7maf/alma991018902072104921)  
+
+> Minimal computing is an approach to digital humanities design and method that eschews high-performance computing in favor of practices that are more accessible around the world. While digital humanities tools and methods readily available in the Global North tend to keep pace with developments in desktop computing and thus privilege newness, minimal computing takes a different approach to “innovation” in digital humanities, focusing on developing accessible digital humanities projects and practices for low-income economies and low-bandwidth environments. (Risam, p. 43)
 
 - minimal by design 
 - more accessible (works even without internet access)
@@ -26,7 +28,7 @@ ______, ["Design for Diversity: The Case of Ed"](https://des4div.library.northea
 
 <exercise id="2" title="Blini">
 
-Blini is a minimal site builder build with FastAPI. Users can create digital essays and exhibits that are saved directly to flat HTML files.  Inspired by Google Doc, content is automatically saves and mirrors the   A class site could be exported as a zip file, which can be served on Netlify, S3 or Github pages.
+Blini is a minimal site builder built with FastAPI. Users can create digital essays and exhibits that are saved directly to flat HTML files.  Like Google Docs, content is automatically saved. The editing interface is designed to be identical to output HTML. Sites can be exported as a zip file, which can be served on Netlify, S3 or Github pages.
 
 - [repo](https://github.com/apjanco/blini)
 - [demo](https://blini.apjan.co/)
@@ -35,12 +37,12 @@ Blini is a minimal site builder build with FastAPI. Users can create digital ess
 
 <exercise id="3" title="new feature">
 
-Blini uses a text editor called [ckeditor](https://ckeditor.com/).  It gives us all of the formatting and word processing tools that we need.  It formats the text in HTMl, so it's perfect for our purposes.  However, in ckeditor5, there is no longer the option of editing the HTML directly in the editor.  Mike has requested this functionality.  
+Blini uses a text editor called [ckeditor](https://ckeditor.com/).  It gives us all of the formatting and word processing tools that we need.  It formats the text in HTMl, so it's perfect for our purposes.  However, in ckeditor5, there is no longer the option of editing the HTML directly in the editor.  Mike would like this functionality.  
 
+We need:
 - the ability to load the raw HTML of a page
 - the ability to make edits to the page
 - save the edits back to the file 
-
 
 </exercise>
 
