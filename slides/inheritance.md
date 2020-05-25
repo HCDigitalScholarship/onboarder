@@ -35,7 +35,7 @@ Our index file is actually a content block:
 {% endblock %}
 ```
 
-- When we render index.html, the template engine gets the code in base.html and places the contents of `{% block content %}` in the placeholder area. 
+- When we render index.html, the template engine gets the code in `base.html` and places the contents of `{% block content %}` in the placeholder area. 
 
 ---
 
@@ -60,7 +60,7 @@ Here is a common use of template inheritance.  We load the code from `header.htm
 
 ---
 
-It is also common to see extra_css and extra_js blocks. These let you add js and css that are specific to a particular page. 
+It is also common to see `extra_css` and `extra_js` blocks. These let you add js and css that are specific to a particular page. 
 
 *base.html*
 ```html

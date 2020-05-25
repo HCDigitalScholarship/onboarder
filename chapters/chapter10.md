@@ -18,7 +18,7 @@ We can re-use components like the navbar or footer.  Changes made to the block a
 ```python 
 def my_view(request):
   context = {}
-  context['fishes'] = ['one fish', 'two fish','three fish', 'blue fish',]
+  context['fishes'] = ['one fish', 'two fish','red fish', 'blue fish',]
   return render('fishes.html', context)
 ```
 
