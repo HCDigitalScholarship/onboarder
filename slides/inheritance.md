@@ -60,7 +60,7 @@ Here is a common use of template inheritance.  We load the code from `header.htm
 
 ---
 
-It is also common to see `extra_css` and `extra_js` blocks. These let you add js and css that are specific to a particular page. 
+It is also common to see `extra_css` and `extra_js` blocks. These let you add js and css that are specific to a particular page.  You can also create a unique title (the text in the browser tab) for each page.  
 
 *base.html*
 ```html
@@ -68,6 +68,7 @@ It is also common to see `extra_css` and `extra_js` blocks. These let you add js
 <html>
   <head>
     {% include 'header.html' %}
+    <title>{% block title %}{% endblock %}</title>
     {% block extra_css %}{% endblock %}
   </head>
 
@@ -89,6 +90,7 @@ It is also common to see `extra_css` and `extra_js` blocks. These let you add js
 ```html
 {% extends "base.html" %}
 
+{% block title %}My Own Title{% endblock %}
 {% block extra_css %}
 <link rel="stylesheet" href="this_page_has_style.css">
 {% endblock %}
@@ -108,7 +110,39 @@ function my_function(event) {
 
 ---
 
-Other common tags are 
+# Conditions 
+```html
+{% if fishes %}
+{{ fishes}}
+{% else %}
+<p>no fishes today</p>
+{% endif %}
+```
+
+---
+
+# urls 
+
+In Django, you can point to any of your views by name.
+
+*urls.py*
+```python
+from django.urls import include, path
+
+urlpatterns = [
+    path('/about', views.about, name="about'),
+    ...
+] 
+```
+
+*my_template.html*
+```html
+<a href="{% url 'about' %}">About</a>
+```
+
+--- 
+
+# Other common tags are 
 
 - `{% load static %}` which is needed in Django to load static files.  They can then be added as such:
 `<img src="{% static 'my_image.png' %}" />`  
@@ -119,6 +153,15 @@ Other common tags are
 Django will create a file that translators can use with any string in the trans tag.  When the language is changed, Django will use the correct-language string for this string.  
 
 For more see [the Django docs](https://docs.djangoproject.com/en/3.0/topics/i18n/)
+
+---
+
+In addition to iteration and conditions, you can 
+
+- render html from the view [`{{ my_html|safe }}`](https://docs.djangoproject.com/en/3.0/ref/templates/builtins/#safe)
+- add lorem ipsum filler text [`{% lorem %}`](https://docs.djangoproject.com/en/3.0/ref/templates/builtins/#lorem)
+- turn string into slug (for urls), [`{{ value|slugify }}`](https://docs.djangoproject.com/en/3.0/ref/templates/builtins/#slugify)
+- turn plain text with line breaks ('\n') into HTMl [`{{ value|linebreaks }}`](https://docs.djangoproject.com/en/3.0/ref/templates/builtins/#linebreaks) 
 
 ---
 
