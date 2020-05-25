@@ -29,11 +29,8 @@ id: 12
 
 </exercise>
 
-<exercise id="6" title="templates">
 
-</exercise>
-
-<exercise id="7" title="further reading">
+<exercise id="6" title="further reading">
 
 [Mozilla Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 
