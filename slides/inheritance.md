@@ -35,7 +35,7 @@ Our index file is actually a content block:
 {% endblock %}
 ```
 
-- When we render index.html, the template engine gets the code in `base.html` and places the contents of `{% block content %}` in the placeholder area. 
+- When we render index.html, the template engine gets the code in `base.html` and places the contents of `{% block content %}` from `index.html` in the placeholder area. 
 
 ---
 

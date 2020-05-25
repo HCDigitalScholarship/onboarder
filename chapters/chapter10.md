@@ -47,14 +47,17 @@ def my_view(request):
 
 </exercise>
 
-<exercise id="4" title="Debates in Modern Web Development">
- 
-[Second-guessing the modern web](https://macwright.org/2020/05/10/spa-fatigue.html) 
+<exercise id="4" title="Great Debates in Modern Web Development">
+
 
 ["Advantages and Disadvantages of Django"](http://www.mindfiresolutions.com/blog/2018/04/advantages-and-disadvantages-of-django/)
+
+[Second guessing the modern web](https://macwright.org/2020/05/10/spa-fatigue.html)
 
 [Design for Diversity: The Case of Ed / Alex Gil](https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/)
 
 [Modern Web Development on the Jamstack New Techniques for Ultra Fast Sites and Web Applications by Mathias Biilmann & Phil Hawksworth](https://www.netlify.com/oreilly-jamstack/#download)
 
+
+Also note: [Jamstack Virtual Conference, May 27-28](https://jamstackconf.com/virtual/)
 </exercise>
