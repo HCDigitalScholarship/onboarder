@@ -69,12 +69,10 @@ It is also common to see extra_css and extra_js blocks. These let you add js and
   <head>
     {% include 'header.html' %}
     {% block extra_css %}{% endblock %}
-
   </head>
 
   <body>
     {% block content %}{% endblock %}
-
     {% block extra_js %}{% endblock %}
   </body>
 
@@ -92,16 +90,16 @@ It is also common to see extra_css and extra_js blocks. These let you add js and
 {% extends "base.html" %}
 
 {% block extra_css %}
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="this_page_has_style.css">
 {% endblock %}
 
     {% block content %}
-    <h1>This is my_page.html</h1>
+    <h1 onclick="my_function(this);">This is my_page!</h1>
     {% endblock %}
 
 {% block extra_js %}
 <script>
-function my(event) {
+function my_function(event) {
     console.log(event);
 }; 
 </script>
@@ -113,12 +111,15 @@ function my(event) {
 Other common tags are 
 
 - `{% load static %}` which is needed in Django to load static files.  They can then be added as such:
-`<img src={% static 'my_image.png' %}>`  
+`<img src="{% static 'my_image.png' %}" />`  
 
 - `{% load l10n %}` will be at the top of all multi-lingual pages using Django's localization features.  You'll also see the `trans` tag. For example,
 `<h1>{% trans "this is the worst page" %}</h1>`.  
+
+Django will create a file that translators can use with any string in the trans tag.  When the language is changed, Django will use the correct-language string for this string.  
 
 For more see [the Django docs](https://docs.djangoproject.com/en/3.0/topics/i18n/)
 
 ---
 
+<img src="awe_face.jpeg" />
