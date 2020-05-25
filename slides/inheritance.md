@@ -137,8 +137,8 @@ urlpatterns = [
 
 *my_template.html*
 ```html
-<a href="{% url 'about' %}">About</a>
-```
+<a href="{% url 'about' %}">About</a>```  
+
 
 --- 
 
