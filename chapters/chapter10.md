@@ -32,7 +32,14 @@ def my_view(request):
 ```
 </exercise>
 
-<exercise id="2" title="Reading">
+<exercise id="2" title="Inheritance" type="slides">
+
+<slides source="inheritance">
+</slides>
+
+</exercise>
+
+<exercise id="3" title="Reading">
 
 [Real Python Primer on Jinja Templating](https://realpython.com/primer-on-jinja-templating/)
 
@@ -40,7 +47,7 @@ def my_view(request):
 
 </exercise>
 
-<exercise id="3" title="Debates in Modern Web Development">
+<exercise id="4" title="Debates in Modern Web Development">
  
 [Second-guessing the modern web](https://macwright.org/2020/05/10/spa-fatigue.html) 
 
