@@ -5,6 +5,8 @@ type: slides
 
 Template inheritance allows us to create a consistent look across a site.  We create a navbar block, for example, that is used in all of the site's pages.  Any changes made in the navbar file will appear in any page using that block.  This saves us from having to make updates in every single page. 
 
+<img width="30%" src="https://i.pinimg.com/originals/96/e3/7e/96e37e7c18b31277d248aa5dda182fa8.jpg" />
+
 ---
 
 In most of our projects, there is a `templates` directory as well as a `base.html` file. The base file isn't the index, but sets the layout for all of the site. Blocks have an opening `{% block <name> %}` and `{% endblock %}`
@@ -25,6 +27,7 @@ In most of our projects, there is a `templates` directory as well as a `base.htm
 
 Our index file is actually a content block:
 
+*index.html*
 ```html
 {% extends "base.html" %}
 {% block content %}
@@ -32,7 +35,7 @@ Our index file is actually a content block:
 {% endblock %}
 ```
 
-- When we render index.html, the template engine grabs gets the code in base.html and places the contents of `{% block content %}` in the placeholder area. 
+- When we render index.html, the template engine gets the code in base.html and places the contents of `{% block content %}` in the placeholder area. 
 
 ---
 
@@ -80,6 +83,8 @@ It is also common to see extra_css and extra_js blocks. These let you add js and
   </footer>
 </html>
 ```
+
+---
 
 *my_page.html*
 
