@@ -137,10 +137,12 @@ urlpatterns = [
 
 *my_template.html*
 ```html
-<a href="{% url 'about' %}">About</a>```  
+<a href="{% url 'about' %}">About</a>
+```  
 
 
 --- 
+
 
 # Other common tags are 
 
@@ -154,7 +156,9 @@ Django will create a file that translators can use with any string in the trans 
 
 For more see [the Django docs](https://docs.djangoproject.com/en/3.0/topics/i18n/)
 
+
 ---
+
 
 In addition to iteration and conditions, you can 
 
