@@ -14,12 +14,15 @@ id: 10
 We can re-use components like the navbar or footer.  Changes made to the block are reflected in all pages that rely on that block.
 - Templates also let us pass data from the server and parse that data into valid HTML.  For example, the following sends a list of fish to the template, then creates an ordered list of fish. 
 
+*views.py*
 ```python 
 def my_view(request):
   context = {}
   context['fishes'] = ['one fish', 'two fish','three fish', 'blue fish',]
   return render('fishes.html', context)
 ```
+
+*fishes.html*
 ```html
 <ol>
 {% for fish in fishes %}
@@ -46,8 +49,7 @@ def my_view(request):
 </exercise>
 <exercise id="3" title="Debates in Modern Web Development" >
  
-["Second-guessing the modern web"](https://macwright.org/2020/05/10/spa-fatigue.html)
-by Tom MacWright
+[Second-guessing the modern web](https://macwright.org/2020/05/10/spa-fatigue.html) by Tom MacWright
 
 ["Advantages and Disadvantages of Django"](http://www.mindfiresolutions.com/blog/2018/04/advantages-and-disadvantages-of-django/)
 
