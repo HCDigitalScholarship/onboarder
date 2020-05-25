@@ -1,33 +1,42 @@
 ---
-title: '12 MySQL and Databases (May 27 AM)'
+title: '12 Django (May 27 AM)'
 description:
-  "Intro. to the MySQL query language, relational databases and psql"
+  "Intro to Django"
 prev: /chapter11
 next: /chapter13
 type: chapter
 id: 12
 ---
 
-<exercise id="1" title="That '70s Database Language">
 
-```sql
-SELECT people FROM party WHERE groove LIKE 'get Down' OR 'boogie'; 
-
-```
-
-<img src="https://img1.looper.com/img/gallery/we-finally-understand-why-that-70s-show-was-canceled/intro-1568723982.jpg" width="50%">
-
-` SQL is like Latin for data analysts/scientists. You may not always realize you are using it, but you are probably using it.`
-
-[w3schools](https://www.w3schools.com/sql/default.asp)
-
-
-
+<exercise id="1" title="Overview">
 
 </exercise>
 
-<exercise id="2" title="GraphQL">
+<exercise id="2" title="Create Project">
 
-It's what the cool kids are using.  A crash course in graphQL
+</exercise>
+
+<exercise id="3" title="urls">
+
+</exercise>
+
+<exercise id="4" title="views">
+
+</exercise>
+
+<exercise id="5" title="models">
+
+</exercise>
+
+<exercise id="6" title="templates">
+
+</exercise>
+
+<exercise id="7" title="further reading">
+
+[Mozilla Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+
+[Django Girls](https://tutorial.djangogirls.org/en/django/)
 
 </exercise>
