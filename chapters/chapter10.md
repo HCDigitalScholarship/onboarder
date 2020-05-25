@@ -47,9 +47,9 @@ def my_view(request):
 [Django Girls](https://tutorial.djangogirls.org/en/django/)
 
 </exercise>
-<exercise id="3" title="Debates in Modern Web Development" >
+<exercise id="4" title="Debates in Modern Web Development">
  
-[Second-guessing the modern web](https://macwright.org/2020/05/10/spa-fatigue.html) by Tom MacWright
+[Second-guessing the modern web](https://macwright.org/2020/05/10/spa-fatigue.html) 
 
 ["Advantages and Disadvantages of Django"](http://www.mindfiresolutions.com/blog/2018/04/advantages-and-disadvantages-of-django/)
 
