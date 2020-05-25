@@ -54,4 +54,5 @@ It uses a JS library called [code mirror](https://codemirror.net/).  You've prob
 The code is here:
 https://github.com/apjanco/introspective
 
+<img src="introspective.png">
 </exercise>
