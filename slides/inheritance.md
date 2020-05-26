@@ -131,18 +131,13 @@ from django.urls import include, path
 
 urlpatterns = [
     path('/about', views.about, name="about'),
-    ...
 ] 
 ```
 
 *my_template.html*
-```html
-<a href="{% url 'about' %}">About</a>
-```  
-
+`<a href="{% url 'about' %}">About</a>`  
 
 --- 
-
 
 # Other common tags are 
 
@@ -169,4 +164,4 @@ In addition to iteration and conditions, you can
 
 ---
 
-<img src="awe_face.jpeg" />
+<img src="djangopony.png" />
