@@ -30,6 +30,7 @@ def my_view(request):
 {% endfor %}
 </ol>
 ```
+
 </exercise>
 
 <exercise id="2" title="Inheritance" type="slides">
@@ -39,7 +40,14 @@ def my_view(request):
 
 </exercise>
 
-<exercise id="3" title="Reading">
+<exercise id="3" title="more inheritance" type="slides">
+
+<slides source="inheritance1">
+</slides>
+
+</exercise>
+
+<exercise id="4" title="Reading">
 
 [Real Python Primer on Jinja Templating](https://realpython.com/primer-on-jinja-templating/)
 
@@ -47,8 +55,7 @@ def my_view(request):
 
 </exercise>
 
-<exercise id="4" title="Great Debates in Modern Web Development">
-
+<exercise id="5" title="Great Debates in Modern Web Development">
 
 ["Advantages and Disadvantages of Django"](http://www.mindfiresolutions.com/blog/2018/04/advantages-and-disadvantages-of-django/)
 
@@ -58,6 +65,6 @@ def my_view(request):
 
 [Modern Web Development on the Jamstack New Techniques for Ultra Fast Sites and Web Applications by Mathias Biilmann & Phil Hawksworth](https://www.netlify.com/oreilly-jamstack/#download)
 
-
 Also note: [Jamstack Virtual Conference, May 27-28](https://jamstackconf.com/virtual/)
+
 </exercise>
