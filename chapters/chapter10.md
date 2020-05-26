@@ -40,14 +40,8 @@ def my_view(request):
 
 </exercise>
 
-<exercise id="3" title="more inheritance" type="slides">
 
-<slides source="inheritance1">
-</slides>
-
-</exercise>
-
-<exercise id="4" title="Reading">
+<exercise id="3" title="Reading">
 
 [Real Python Primer on Jinja Templating](https://realpython.com/primer-on-jinja-templating/)
 
@@ -55,7 +49,7 @@ def my_view(request):
 
 </exercise>
 
-<exercise id="5" title="Great Debates in Modern Web Development">
+<exercise id="4" title="Great Debates in Modern Web Development">
 
 ["Advantages and Disadvantages of Django"](http://www.mindfiresolutions.com/blog/2018/04/advantages-and-disadvantages-of-django/)
 

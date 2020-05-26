@@ -138,3 +138,20 @@ urlpatterns = [
 ```html
 <a href="{% url 'about' %}">About</a>  
 ```
+---
+
+<img src="slide_from_hell.png">
+
+---
+
+
+In addition to iteration and conditions, you can 
+
+- render html from the view [`{{ my_html|safe }}`](https://docs.djangoproject.com/en/3.0/ref/templates/builtins/#safe)
+- add lorem ipsum filler text [`{% lorem %}`](https://docs.djangoproject.com/en/3.0/ref/templates/builtins/#lorem)
+- turn string into slug (for urls), [`{{ value|slugify }}`](https://docs.djangoproject.com/en/3.0/ref/templates/builtins/#slugify)
+- turn plain text with line breaks ('\n') into HTMl [`{{ value|linebreaks }}`](https://docs.djangoproject.com/en/3.0/ref/templates/builtins/#linebreaks) 
+
+---
+
+<img src="djangopony.png" />
