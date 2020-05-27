@@ -46,6 +46,7 @@ INSTALLED_APPS = (
 
 <exercise id="3" title="urls">
 
+*urls.py* 
 ```python
 from django.urls import include, path
 
@@ -62,6 +63,8 @@ urlpatterns = [
 
 [Function-based view](https://docs.djangoproject.com/en/3.0/topics/http/views/
 )
+
+*views.py*
 ```python
 from django.shortcuts import render
 from myapp.models import goto
@@ -75,6 +78,7 @@ def goto(request):
 
 [Class-based view](https://docs.djangoproject.com/en/3.0/topics/class-based-views/intro/)
 
+*views.py*
 ```python
 from django.views.generic.base import TemplateView
 from myapp.models import goto
@@ -97,7 +101,7 @@ return context
 2. [Mozilla on Django Models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
 3. [Django ORM](https://docs.djangoproject.com/en/3.0/topics/db/queries/) 
 
-
+*models.py*
 ```python
 from django.db import models
 
@@ -158,6 +162,7 @@ class Command(BaseCommand):
       df = pd.read_csv(path)
       ...
 ```
+
 </exercise>
 
 
@@ -174,7 +179,6 @@ Cookbook entries
 - [Use Google for user authentication](https://realpython.com/adding-social-authentication-to-django/)
 - [Import and Export data in Admin](https://github.com/HCDigitalScholarship/ds-cookbook/tree/master/django-import-export)
 - [DataTables: Server Side Processing](https://github.com/HCDigitalScholarship/ds-cookbook/tree/master/datatables-server-side-processing)
-
 
 
 </exercise>
