@@ -109,7 +109,7 @@ class goto(models.Model):
 
 </exercise>
 
-<exercise id="5" title="adding data">
+<exercise id="6" title="adding data">
 
 Open the project shell.
 `$ python manage.py shell`
@@ -124,7 +124,7 @@ Open the project shell.
 
 </exercise>
 
-<exercise id="6" title="commands">
+<exercise id="7" title="commands">
 
 Run a local server
 `python manage.py runserver`
@@ -157,7 +157,7 @@ class Command(BaseCommand):
 </exercise>
 
 
-<exercise id="7" title="further reading">
+<exercise id="8" title="further reading">
 
 [Mozilla Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 

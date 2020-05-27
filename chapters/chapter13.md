@@ -28,6 +28,10 @@ SELECT people FROM party WHERE groove LIKE 'get Down' OR 'boogie';
 
 <exercise id="2" title="GraphQL">
 
-It's what the cool kids are using.  A crash course in graphQL
+GraphQL is a query language for your API, and a server-side runtime for executing queries by using a type system you define for your data. GraphQL isn't tied to any specific database or storage engine and is instead backed by your existing code and data. [src](https://graphql.org/learn/)
+
+[Tutorials](https://www.graphql.com/tutorials/)
+[FastAPI and GraphQL](https://fastapi.tiangolo.com/advanced/graphql/)
+[Building a graphql api with Django](https://stackabuse.com/building-a-graphql-api-with-django/)
 
 </exercise>
