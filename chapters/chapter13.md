@@ -11,7 +11,7 @@ id: 13
 <exercise id="1" title="That '70s Database Language">
 
 ```sql
-SELECT people FROM party WHERE groove LIKE 'get Down' OR 'boogie'; 
+SELECT people FROM party WHERE groove LIKE 'get Down' OR 'boogie';
 
 ```
 
@@ -19,14 +19,40 @@ SELECT people FROM party WHERE groove LIKE 'get Down' OR 'boogie';
 
 ` SQL is like Latin for data analysts/scientists. You may not always realize you are using it, but you are probably using it.`
 
-[w3schools](https://www.w3schools.com/sql/default.asp)
+
 
 
 
 
 </exercise>
 
-<exercise id="2" title="MySQl">
+<exercise id="2" title="Relational Database Design">
+
+Relational databases are still the most common form of data storage and management, even after all these years. They are essentially a series of tables, linked by common key values. Best practice for database design dictates that each table has a designated _primary key_ field, which acts a unique identifier for a database record.
+
+Tables are linked through _foreign keys_, which match a field and value in one table with the primary key field and value in another table.
+
+
+Relational databases are built on three types of relationships:
+
+1. One-to-one
+2. One-to-many
+3. Many-to-many
+
+<img src="er.png">
+
+</exercise>
+<exercise id="3" title="SQL">
+
+Most relational databases use some flavor of SQL--structured query language--to query and manage the data.
+
+[w3schools](https://www.w3schools.com/sql/default.asp)
+
+[DigitalOcean: A Basic MySQL Tutorial](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial)
+
+MySQL is one of the most longstanding and popular open-source database engines, with PostgreSQL as its more robust competition. "Postgres" has additional features like geospatial data and querying, which makes data-driven mapping possible. We use both in our projects, as MySQL is easier to use while Postgres's spatial capacity creates new project opportunities for us.
+
+[Why should you care about PostGIS?--A Gentle Introduction to Spatial Databases](https://medium.com/@tjukanov/why-should-you-care-about-postgis-a-gentle-introduction-to-spatial-databases-9eccd26bc42b)
 
 </exercise>
 
