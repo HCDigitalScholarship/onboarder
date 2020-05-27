@@ -145,7 +145,9 @@ Update the db schema based on models.py
 `python manage.py inspectdb > models.py`
 
 You can [create your own commands](https://docs.djangoproject.com/en/3.0/howto/custom-management-commands/) as well
+
 - place a file in `myapp/management/commands`
+
 ```python
 from django.core.management.base import BaseCommand
 import pandas as pd
@@ -160,11 +162,9 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
       path = Path(options['path'])
       df = pd.read_csv(path)
-      ...
 ```
 
 </exercise>
-
 
 <exercise id="8" title="further reading">
 
