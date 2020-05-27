@@ -58,9 +58,17 @@ A long time ago, I wrote half a thing about database design principles. [Check i
 
 </exercise>
 
+<exercise id="4" title="DB Tools">
 
+https://www.sequelpro.com/
 
-<exercise id="4" title="GraphQL">
+https://www.jetbrains.com/datagrip/
+
+https://dbeaver.io/
+
+</exercise>
+
+<exercise id="5" title="GraphQL">
 
 GraphQL is a query language for your API, and a server-side runtime for executing queries by using a type system you define for your data. GraphQL isn't tied to any specific database or storage engine and is instead backed by your existing code and data. [src](https://graphql.org/learn/)
 
