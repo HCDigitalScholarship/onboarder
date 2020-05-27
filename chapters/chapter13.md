@@ -58,7 +58,9 @@ A long time ago, I wrote half a thing about database design principles. [Check i
 
 </exercise>
 
-<exercise id="4" title="DB Tools">
+<exercise id="4" title="DB">
+
+[Django Q objects](https://docs.djangoproject.com/en/3.0/topics/db/queries/#complex-lookups-with-q-objects)
 
 https://www.sequelpro.com/
 
