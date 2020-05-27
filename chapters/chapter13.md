@@ -54,6 +54,8 @@ MySQL is one of the most longstanding and popular open-source database engines, 
 
 [Why should you care about PostGIS?--A Gentle Introduction to Spatial Databases](https://medium.com/@tjukanov/why-should-you-care-about-postgis-a-gentle-introduction-to-spatial-databases-9eccd26bc42b)
 
+A long time ago, I wrote half a thing about database design principles. [Check it out!](https://docs.google.com/document/d/1TPVSVuMJk2kQ-G2rMBhBLoB5dH5ghQl0_H0IBP6FYIY/edit)
+
 </exercise>
 
 
