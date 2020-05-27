@@ -60,6 +60,8 @@ A long time ago, I wrote half a thing about database design principles. [Check i
 
 <exercise id="4" title="DB">
 
+[`python manage.py dbshell`](https://docs.djangoproject.com/en/3.0/ref/django-admin/#dbshell)
+
 [Django Q objects](https://docs.djangoproject.com/en/3.0/topics/db/queries/#complex-lookups-with-q-objects)
 
 [Django postgres search](https://docs.djangoproject.com/en/3.0/ref/contrib/postgres/search/)
