@@ -93,7 +93,10 @@ return context
 
 <exercise id="5" title="models">
 
-# [Models](https://docs.djangoproject.com/en/3.0/topics/db/models/)
+1. [Django models docs](https://docs.djangoproject.com/en/3.0/topics/db/models/)
+2. [Mozilla on Django Models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
+3. [Django ORM](https://docs.djangoproject.com/en/3.0/topics/db/queries/) 
+
 
 ```python
 from django.db import models
@@ -121,6 +124,7 @@ Open the project shell.
 1 Andy Janco
 
 ```
+See also [loaddata and fixtures](https://docs.djangoproject.com/en/3.0/howto/initial-data/#providing-initial-data-for-models)
 
 </exercise>
 

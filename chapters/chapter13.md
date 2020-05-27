@@ -31,15 +31,6 @@ SELECT people FROM party WHERE groove LIKE 'get Down' OR 'boogie';
 </exercise>
 
 
-<exercise id="3" title="Django Models and ORM">
-
-1. [Django models docs](https://docs.djangoproject.com/en/3.0/topics/db/models/)
-2. [Mozilla on Django Models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
-3. [Django ORM](https://docs.djangoproject.com/en/3.0/topics/db/queries/) 
-
-</exercise>
-
-
 
 <exercise id="4" title="GraphQL">
 
