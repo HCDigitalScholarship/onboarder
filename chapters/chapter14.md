@@ -235,10 +235,11 @@ more on [Django forms](https://docs.djangoproject.com/en/3.0/topics/forms/)
 
 </exercise>
 
-<exercise id="4" title="Django forms">
+<exercise id="5" title="Final Project">
 
-# Final Exam: Mad Libs app
+<img src="https://target.scene7.com/is/image/Target/GUEST_4c383d0d-52f3-4190-adad-00dd21163e7f?wid=488&hei=488&fmt=pjpeg">
 
+- Mad Libs is a game where you fill in missing words.  The player is asked to name an "adjective" or "verb."  The response is placed in the text to create funny stories.   
 - Use the marked-up text below
 
 ```html
@@ -266,10 +267,10 @@ For example `spans = ["adjective","adjective","noun"...]` or `spans = {"1":"adje
 
 - create a form with a field for each span with a label for the part of speech  
 *hint* [field label](https://www.w3schools.com/tags/tag_label.asp)
-- load the form in your view and serve the form to a template 
+- serve the form to a template 
 - fill the spans in the text with the user's form responses. 
 - return the completed mad lib to the user 
 
-## You can form teams or work on this alone. Ask for help at any time. 
+You can form teams or work on this alone. Ask for help at any time. You have until next Monday to complete the app. We will then look at all the entries and vote on our favorite as a group. 
 
 </exercise>
