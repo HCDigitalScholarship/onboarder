@@ -21,9 +21,6 @@ id: 14
   <input type="text" id="lname" name="lname">
 </form>
 ```
-# hidden input tricks
-# csrf token
-# forms.py
 
 </exercise>
 
@@ -131,7 +128,7 @@ change `views.py`
 change GET to POST
 
 <hr>
-<h2>Compare GET vs. POST</h2>
+<h2>GET vs. POST</h2>
 <p>The following table compares the two HTTP methods: GET and POST.</p>
 <div class="w3-responsive">
 <table class="w3-table-all notranslate">
@@ -240,7 +237,7 @@ more on [Django forms](https://docs.djangoproject.com/en/3.0/topics/forms/)
 
 <exercise id="4" title="Django forms">
 
-Final Exam: Mad Libs app
+# Final Exam: Mad Libs app
 
 - Use the marked-up text below
 
@@ -267,12 +264,12 @@ for the vacation.</p>
 - Using Beautifulsoup, Javascript, jQuery or pure Python, extract the id values from the spans to create a list of values.
 For example `spans = ["adjective","adjective","noun"...]` or `spans = {"1":"adjective", "2":"adjective", "3":"noun"}`
 
-- edit the `forms.py` file, so that it creates a field for each span with a label for the part of speech  
-*hint* [you can add a placeholder in the form field](https://stackoverflow.com/questions/44133562/django-add-placeholder-text-to-form-field/44133785) or a [form label](https://www.w3schools.com/tags/tag_label.asp)
+- create a form with a field for each span with a label for the part of speech  
+*hint* [field label](https://www.w3schools.com/tags/tag_label.asp)
 - load the form in your view and serve the form to a template 
 - fill the spans in the text with the user's form responses. 
 - return the completed mad lib to the user 
 
-- You can form teams or work on this alone. 
+## You can form teams or work on this alone. Ask for help at any time. 
 
 </exercise>
