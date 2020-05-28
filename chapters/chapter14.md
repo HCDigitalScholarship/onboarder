@@ -246,7 +246,7 @@ more on [Django forms](https://docs.djangoproject.com/en/3.0/topics/forms/)
 <p>A vacation is when you take a trip to some <span id="1" class="adjective"></span> place
 with your <span id="2" class="adjective"></span> family. Usually you go to some place
 that is near a/an <span id="3" class="noun"></span> or up on a/an <span id="4" class="noun"></span>.
-A good vacation place is one where you can rclasse <span id="5" class="plural_noun"></span>
+A good vacation place is one where you can ride <span id="5" class="plural_noun"></span>
 or play <span id="6" class="game"></span> or go hunting for <span id="7" class="plural_noun"></span>. I like
 to spend my time <span id="8" class="ing_verb"></span> or <span id="9" class="ing_verb"></span>.
 When parents go on a vacation, they spend their time eating
@@ -274,3 +274,6 @@ For example `spans = ["adjective","adjective","noun"...]` or `spans = {"1":"adje
 You can form teams or work on this alone. Ask for help at any time. You have until next Monday to complete the app. We will then look at all the entries and vote on our favorite as a group. 
 
 </exercise>
+
+single assignment vs semester 
+workshops 
